@@ -1,0 +1,6 @@
+---
+layout: post
+title: First Lesson
+---
+
+In our first lesson, we made a Caesar Code generator. Caesar Code is when you take a chunk of text (eg: I like Lemons) and offset it by a few letters, So 'A' becomes 'B' ect. (eg: J mjlf mfnpot). In the case of my example, it was offset by 1 letter.
